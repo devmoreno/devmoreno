@@ -1,4 +1,4 @@
-### Hi there, I'm Casey 👋
+### Hi there, I'm Edwin Moreno 👋
 
 [![Website Badge](https://img.shields.io/badge/proranked.com-lightblue?style=for-the-badge)](https://proranked.com)
 [![Personal Email Badge](https://img.shields.io/badge/edwin.moreno@proranked.com-green?style=for-the-badge)](mailto:edwin.moreno@proranked.com)
